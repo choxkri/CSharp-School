@@ -29,7 +29,17 @@
         foreach (Race race in this.Races)
         {
             Shuffle(this.Drivers);
-            Console.WriteLine($"{this.Drivers[0].Name} of {}");
+            Team tn = null;
+            foreach (Team team in this.Teams)
+            {
+                if (team.Drivers.Contains(this.Drivers[0]))
+                {
+                    tn = team;
+                    break;
+                }
+
+            }
+            Console.WriteLine($"{this.Drivers[0].Name} of {tn.Name} has won the {race.Name} Grand Prix!");
         }
     }
 
