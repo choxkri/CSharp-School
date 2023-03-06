@@ -9,6 +9,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Castle Battle", "Castle Bat
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "F1 Season 2022", "F1 Season 2022\F1 Season 2022.csproj", "{CDCECB7D-37E9-4C85-8359-F30AC3C0A4CD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "File reading", "File reading\File reading.csproj", "{D37EB81D-8659-417B-A98D-F62DC4B31E54}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{CDCECB7D-37E9-4C85-8359-F30AC3C0A4CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CDCECB7D-37E9-4C85-8359-F30AC3C0A4CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CDCECB7D-37E9-4C85-8359-F30AC3C0A4CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D37EB81D-8659-417B-A98D-F62DC4B31E54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D37EB81D-8659-417B-A98D-F62DC4B31E54}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D37EB81D-8659-417B-A98D-F62DC4B31E54}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D37EB81D-8659-417B-A98D-F62DC4B31E54}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
