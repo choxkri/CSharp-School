@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Reading and updating values
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Reading and updating objects in JSON files", "Reading and updating objects in JSON files\Reading and updating objects in JSON files.csproj", "{CBF0D1D4-B7D3-4087-B818-93BC43B6DBE7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Classes with objects for fields and JSON files", "Classes with objects for fields and JSON files\Classes with objects for fields and JSON files.csproj", "{F9CD294D-8431-47CF-A23F-04431950773C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{CBF0D1D4-B7D3-4087-B818-93BC43B6DBE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CBF0D1D4-B7D3-4087-B818-93BC43B6DBE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CBF0D1D4-B7D3-4087-B818-93BC43B6DBE7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F9CD294D-8431-47CF-A23F-04431950773C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9CD294D-8431-47CF-A23F-04431950773C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9CD294D-8431-47CF-A23F-04431950773C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9CD294D-8431-47CF-A23F-04431950773C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
