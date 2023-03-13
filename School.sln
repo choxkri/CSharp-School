@@ -19,15 +19,19 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Reading and updating object
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Classes with objects for fields and JSON files", "Classes with objects for fields and JSON files\Classes with objects for fields and JSON files.csproj", "{F9CD294D-8431-47CF-A23F-04431950773C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Files and general exception handling", "Files and general exception handling\Files and general exception handling.csproj", "{4B8860E7-B06E-4AA1-A430-365F6345EA61}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Files and general exception handling", "Files and general exception handling\Files and general exception handling.csproj", "{4B8860E7-B06E-4AA1-A430-365F6345EA61}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Files and specific exception handling", "Files and specific exception handling\Files and specific exception handling.csproj", "{F6129139-6159-4178-903E-67089ACABFC4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Files and specific exception handling", "Files and specific exception handling\Files and specific exception handling.csproj", "{F6129139-6159-4178-903E-67089ACABFC4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "finally block", "finally block\finally block.csproj", "{E7D44532-B012-48C7-ACE0-A9863DF8FD42}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "finally block", "finally block\finally block.csproj", "{E7D44532-B012-48C7-ACE0-A9863DF8FD42}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Where is my money", "Where is my money\Where is my money.csproj", "{C51517D4-F5C7-4E22-B326-BBC1FA70FBE9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Where is my money", "Where is my money\Where is my money.csproj", "{C51517D4-F5C7-4E22-B326-BBC1FA70FBE9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Method overloading", "Method overloading\Method overloading.csproj", "{71AAFDB3-2262-4C65-B5EB-93FE2A139BA0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Method overloading", "Method overloading\Method overloading.csproj", "{71AAFDB3-2262-4C65-B5EB-93FE2A139BA0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Constructor overloading", "Constructor overloading\Constructor overloading.csproj", "{3F7AC89A-862F-4F03-967E-C17D55D98049}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Constructor chaining", "Constructor chaining\Constructor chaining.csproj", "{D4023CD9-2114-4817-AAB8-E7D009A6CE7A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -87,6 +91,14 @@ Global
 		{71AAFDB3-2262-4C65-B5EB-93FE2A139BA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{71AAFDB3-2262-4C65-B5EB-93FE2A139BA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{71AAFDB3-2262-4C65-B5EB-93FE2A139BA0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F7AC89A-862F-4F03-967E-C17D55D98049}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F7AC89A-862F-4F03-967E-C17D55D98049}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F7AC89A-862F-4F03-967E-C17D55D98049}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F7AC89A-862F-4F03-967E-C17D55D98049}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D4023CD9-2114-4817-AAB8-E7D009A6CE7A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4023CD9-2114-4817-AAB8-E7D009A6CE7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4023CD9-2114-4817-AAB8-E7D009A6CE7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4023CD9-2114-4817-AAB8-E7D009A6CE7A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
