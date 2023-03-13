@@ -56,7 +56,7 @@
         foreach (var employee in Employees)
         {
             if (employee.DistanceFromCompany >= WhatIsConsideredDistant)
-                howMany++;
+                howMany += 1;
         }
         return howMany;
     }
