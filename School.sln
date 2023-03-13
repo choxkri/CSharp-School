@@ -35,6 +35,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Constructor chaining", "Con
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Overloading default and copy constructor", "Overloading default and copy constructor\Overloading default and copy constructor.csproj", "{C3E90B08-E88E-4D02-84BF-0452B5CCD941}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ambiguous method call", "Ambiguous method call\Ambiguous method call.csproj", "{3A2915BD-581B-4E74-A97B-9F1CA5E5ECD1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -105,6 +107,10 @@ Global
 		{C3E90B08-E88E-4D02-84BF-0452B5CCD941}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C3E90B08-E88E-4D02-84BF-0452B5CCD941}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C3E90B08-E88E-4D02-84BF-0452B5CCD941}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A2915BD-581B-4E74-A97B-9F1CA5E5ECD1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A2915BD-581B-4E74-A97B-9F1CA5E5ECD1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A2915BD-581B-4E74-A97B-9F1CA5E5ECD1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A2915BD-581B-4E74-A97B-9F1CA5E5ECD1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
