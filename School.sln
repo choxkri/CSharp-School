@@ -27,6 +27,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "finally block", "finally bl
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Where is my money", "Where is my money\Where is my money.csproj", "{C51517D4-F5C7-4E22-B326-BBC1FA70FBE9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Method overloading", "Method overloading\Method overloading.csproj", "{71AAFDB3-2262-4C65-B5EB-93FE2A139BA0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -81,6 +83,10 @@ Global
 		{C51517D4-F5C7-4E22-B326-BBC1FA70FBE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C51517D4-F5C7-4E22-B326-BBC1FA70FBE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C51517D4-F5C7-4E22-B326-BBC1FA70FBE9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{71AAFDB3-2262-4C65-B5EB-93FE2A139BA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71AAFDB3-2262-4C65-B5EB-93FE2A139BA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71AAFDB3-2262-4C65-B5EB-93FE2A139BA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71AAFDB3-2262-4C65-B5EB-93FE2A139BA0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
