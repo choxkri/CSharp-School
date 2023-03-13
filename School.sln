@@ -11,13 +11,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "F1 Season 2022", "F1 Season
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "File reading", "File reading\File reading.csproj", "{D37EB81D-8659-417B-A98D-F62DC4B31E54}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "File writing", "File writing\File writing.csproj", "{F0E47983-4387-42E2-9692-451A213683E3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "File writing", "File writing\File writing.csproj", "{F0E47983-4387-42E2-9692-451A213683E3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Reading and updating values in JSON files", "Reading and updating values in JSON files\Reading and updating values in JSON files.csproj", "{A7375D2D-4F8A-4203-94BC-2835B35D33A9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Reading and updating values in JSON files", "Reading and updating values in JSON files\Reading and updating values in JSON files.csproj", "{A7375D2D-4F8A-4203-94BC-2835B35D33A9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Reading and updating objects in JSON files", "Reading and updating objects in JSON files\Reading and updating objects in JSON files.csproj", "{CBF0D1D4-B7D3-4087-B818-93BC43B6DBE7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Reading and updating objects in JSON files", "Reading and updating objects in JSON files\Reading and updating objects in JSON files.csproj", "{CBF0D1D4-B7D3-4087-B818-93BC43B6DBE7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Classes with objects for fields and JSON files", "Classes with objects for fields and JSON files\Classes with objects for fields and JSON files.csproj", "{F9CD294D-8431-47CF-A23F-04431950773C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Classes with objects for fields and JSON files", "Classes with objects for fields and JSON files\Classes with objects for fields and JSON files.csproj", "{F9CD294D-8431-47CF-A23F-04431950773C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Files and general exception handling", "Files and general exception handling\Files and general exception handling.csproj", "{4B8860E7-B06E-4AA1-A430-365F6345EA61}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -57,6 +59,10 @@ Global
 		{F9CD294D-8431-47CF-A23F-04431950773C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F9CD294D-8431-47CF-A23F-04431950773C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F9CD294D-8431-47CF-A23F-04431950773C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4B8860E7-B06E-4AA1-A430-365F6345EA61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B8860E7-B06E-4AA1-A430-365F6345EA61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B8860E7-B06E-4AA1-A430-365F6345EA61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B8860E7-B06E-4AA1-A430-365F6345EA61}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
