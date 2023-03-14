@@ -29,13 +29,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Where is my money", "Where 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Method overloading", "Method overloading\Method overloading.csproj", "{71AAFDB3-2262-4C65-B5EB-93FE2A139BA0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Constructor overloading", "Constructor overloading\Constructor overloading.csproj", "{3F7AC89A-862F-4F03-967E-C17D55D98049}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Constructor overloading", "Constructor overloading\Constructor overloading.csproj", "{3F7AC89A-862F-4F03-967E-C17D55D98049}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Constructor chaining", "Constructor chaining\Constructor chaining.csproj", "{D4023CD9-2114-4817-AAB8-E7D009A6CE7A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Constructor chaining", "Constructor chaining\Constructor chaining.csproj", "{D4023CD9-2114-4817-AAB8-E7D009A6CE7A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Overloading default and copy constructor", "Overloading default and copy constructor\Overloading default and copy constructor.csproj", "{C3E90B08-E88E-4D02-84BF-0452B5CCD941}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Overloading default and copy constructor", "Overloading default and copy constructor\Overloading default and copy constructor.csproj", "{C3E90B08-E88E-4D02-84BF-0452B5CCD941}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ambiguous method call", "Ambiguous method call\Ambiguous method call.csproj", "{3A2915BD-581B-4E74-A97B-9F1CA5E5ECD1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ambiguous method call", "Ambiguous method call\Ambiguous method call.csproj", "{3A2915BD-581B-4E74-A97B-9F1CA5E5ECD1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Grocery List with overloads", "Grocery List with overloads\Grocery List with overloads.csproj", "{571EDD0C-0DF2-476E-874F-282990D09630}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -111,6 +113,10 @@ Global
 		{3A2915BD-581B-4E74-A97B-9F1CA5E5ECD1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3A2915BD-581B-4E74-A97B-9F1CA5E5ECD1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3A2915BD-581B-4E74-A97B-9F1CA5E5ECD1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{571EDD0C-0DF2-476E-874F-282990D09630}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{571EDD0C-0DF2-476E-874F-282990D09630}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{571EDD0C-0DF2-476E-874F-282990D09630}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{571EDD0C-0DF2-476E-874F-282990D09630}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
