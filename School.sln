@@ -39,15 +39,17 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ambiguous method call", "Am
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Grocery List with overloads", "Grocery List with overloads\Grocery List with overloads.csproj", "{571EDD0C-0DF2-476E-874F-282990D09630}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Library", "Library\Library.csproj", "{B7B8AF62-D877-42D9-A147-5962F94605B3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Library", "Library\Library.csproj", "{B7B8AF62-D877-42D9-A147-5962F94605B3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Creating objects of inherited classes", "Creating objects of inherited classes\Creating objects of inherited classes.csproj", "{37114303-A9F1-4DF9-A634-3A796A4D08CA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Creating objects of inherited classes", "Creating objects of inherited classes\Creating objects of inherited classes.csproj", "{37114303-A9F1-4DF9-A634-3A796A4D08CA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Parameters to base constructor", "Parameters to base constructor\Parameters to base constructor.csproj", "{CF4A8475-BF2A-4A16-A2AE-D0CF81C6E73D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Parameters to base constructor", "Parameters to base constructor\Parameters to base constructor.csproj", "{CF4A8475-BF2A-4A16-A2AE-D0CF81C6E73D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Keyword is, object looping and casting", "Keyword is, object looping and casting\Keyword is, object looping and casting.csproj", "{8A7FF876-2527-44C2-BE6E-F55BA40FA32A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Keyword is, object looping and casting", "Keyword is, object looping and casting\Keyword is, object looping and casting.csproj", "{8A7FF876-2527-44C2-BE6E-F55BA40FA32A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "virtual and override", "virtual and override\virtual and override.csproj", "{90FA0A60-AB54-4EB2-B9EF-79D2B308B023}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "virtual and override", "virtual and override\virtual and override.csproj", "{90FA0A60-AB54-4EB2-B9EF-79D2B308B023}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Base class with multiple derived classes", "Base class with multiple derived classes\Base class with multiple derived classes.csproj", "{E9A5539A-6E3E-413F-802B-840326978D95}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -147,6 +149,10 @@ Global
 		{90FA0A60-AB54-4EB2-B9EF-79D2B308B023}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{90FA0A60-AB54-4EB2-B9EF-79D2B308B023}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{90FA0A60-AB54-4EB2-B9EF-79D2B308B023}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E9A5539A-6E3E-413F-802B-840326978D95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9A5539A-6E3E-413F-802B-840326978D95}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9A5539A-6E3E-413F-802B-840326978D95}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9A5539A-6E3E-413F-802B-840326978D95}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
