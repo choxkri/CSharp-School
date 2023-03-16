@@ -57,6 +57,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "The Object class", "The Obj
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Keyword as", "Keyword as\Keyword as.csproj", "{955BF834-A3A0-428D-99F8-0138631FC9C5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "E-commerce", "E-commerce\E-commerce.csproj", "{D0E23AFA-318A-4C92-B8D7-1D53EE0EAC1B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -171,6 +173,10 @@ Global
 		{955BF834-A3A0-428D-99F8-0138631FC9C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{955BF834-A3A0-428D-99F8-0138631FC9C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{955BF834-A3A0-428D-99F8-0138631FC9C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D0E23AFA-318A-4C92-B8D7-1D53EE0EAC1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0E23AFA-318A-4C92-B8D7-1D53EE0EAC1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0E23AFA-318A-4C92-B8D7-1D53EE0EAC1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0E23AFA-318A-4C92-B8D7-1D53EE0EAC1B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
