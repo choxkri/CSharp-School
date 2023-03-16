@@ -51,9 +51,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "virtual and override", "vir
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Base class with multiple derived classes", "Base class with multiple derived classes\Base class with multiple derived classes.csproj", "{E9A5539A-6E3E-413F-802B-840326978D95}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Derived and derived further", "Derived and derived further\Derived and derived further.csproj", "{A187C05B-374E-47CC-9184-A403DDB2D538}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Derived and derived further", "Derived and derived further\Derived and derived further.csproj", "{A187C05B-374E-47CC-9184-A403DDB2D538}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "The Object class", "The Object class\The Object class.csproj", "{2F9919E8-28B9-4129-93E6-C46AADE4F0DA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "The Object class", "The Object class\The Object class.csproj", "{2F9919E8-28B9-4129-93E6-C46AADE4F0DA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Keyword as", "Keyword as\Keyword as.csproj", "{955BF834-A3A0-428D-99F8-0138631FC9C5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -165,6 +167,10 @@ Global
 		{2F9919E8-28B9-4129-93E6-C46AADE4F0DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2F9919E8-28B9-4129-93E6-C46AADE4F0DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2F9919E8-28B9-4129-93E6-C46AADE4F0DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{955BF834-A3A0-428D-99F8-0138631FC9C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{955BF834-A3A0-428D-99F8-0138631FC9C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{955BF834-A3A0-428D-99F8-0138631FC9C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{955BF834-A3A0-428D-99F8-0138631FC9C5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\chouk\\source\\repos\\choxkri\\csharp-school\\Day of the week\\Day of the week.csproj": {}
+    "C:\\Users\\chouk\\Source\\Repos\\choxkri\\csharp-school\\Day of the week\\Day of the week.csproj": {}
   },
   "projects": {
-    "C:\\Users\\chouk\\source\\repos\\choxkri\\csharp-school\\Day of the week\\Day of the week.csproj": {
+    "C:\\Users\\chouk\\Source\\Repos\\choxkri\\csharp-school\\Day of the week\\Day of the week.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\chouk\\source\\repos\\choxkri\\csharp-school\\Day of the week\\Day of the week.csproj",
+        "projectUniqueName": "C:\\Users\\chouk\\Source\\Repos\\choxkri\\csharp-school\\Day of the week\\Day of the week.csproj",
         "projectName": "Day of the week",
-        "projectPath": "C:\\Users\\chouk\\source\\repos\\choxkri\\csharp-school\\Day of the week\\Day of the week.csproj",
+        "projectPath": "C:\\Users\\chouk\\Source\\Repos\\choxkri\\csharp-school\\Day of the week\\Day of the week.csproj",
         "packagesPath": "C:\\Users\\chouk\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\chouk\\Source\\Repos\\choxkri\\csharp-school\\Day of the week\\obj\\",
         "projectStyle": "PackageReference",
