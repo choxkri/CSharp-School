@@ -63,6 +63,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Which method", "Which metho
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Programmer goes shopping", "Programmer goes shopping\Programmer goes shopping.csproj", "{6209B2BF-7A9E-4EE2-B75E-E5138CEFEC9B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Private fields and methods", "Private fields and methods\Private fields and methods.csproj", "{8085DF24-0005-4C69-A7CF-0B7BA82FBF8E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -189,6 +191,10 @@ Global
 		{6209B2BF-7A9E-4EE2-B75E-E5138CEFEC9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6209B2BF-7A9E-4EE2-B75E-E5138CEFEC9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6209B2BF-7A9E-4EE2-B75E-E5138CEFEC9B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8085DF24-0005-4C69-A7CF-0B7BA82FBF8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8085DF24-0005-4C69-A7CF-0B7BA82FBF8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8085DF24-0005-4C69-A7CF-0B7BA82FBF8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8085DF24-0005-4C69-A7CF-0B7BA82FBF8E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
