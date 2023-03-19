@@ -55,9 +55,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Derived and derived further
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "The Object class", "The Object class\The Object class.csproj", "{2F9919E8-28B9-4129-93E6-C46AADE4F0DA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Keyword as", "Keyword as\Keyword as.csproj", "{955BF834-A3A0-428D-99F8-0138631FC9C5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Keyword as", "Keyword as\Keyword as.csproj", "{955BF834-A3A0-428D-99F8-0138631FC9C5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "E-commerce", "E-commerce\E-commerce.csproj", "{D0E23AFA-318A-4C92-B8D7-1D53EE0EAC1B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "E-commerce", "E-commerce\E-commerce.csproj", "{D0E23AFA-318A-4C92-B8D7-1D53EE0EAC1B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Which method", "Which method\Which method.csproj", "{25BE12EE-8FF8-4469-A011-6F6AA77BAFB8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -177,6 +179,10 @@ Global
 		{D0E23AFA-318A-4C92-B8D7-1D53EE0EAC1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D0E23AFA-318A-4C92-B8D7-1D53EE0EAC1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D0E23AFA-318A-4C92-B8D7-1D53EE0EAC1B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{25BE12EE-8FF8-4469-A011-6F6AA77BAFB8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{25BE12EE-8FF8-4469-A011-6F6AA77BAFB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{25BE12EE-8FF8-4469-A011-6F6AA77BAFB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{25BE12EE-8FF8-4469-A011-6F6AA77BAFB8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
