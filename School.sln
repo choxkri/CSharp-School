@@ -89,6 +89,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interfaces inheriting from 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Class with interface as member", "Class with interface as member\Class with interface as member.csproj", "{DBDE4165-3A12-4703-8B4E-69A201F06E88}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Derived class that implements interface", "Derived class that implements interface\Derived class that implements interface.csproj", "{209E61E1-04C3-4854-B3DD-B96C654B7E7E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -267,6 +269,10 @@ Global
 		{DBDE4165-3A12-4703-8B4E-69A201F06E88}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DBDE4165-3A12-4703-8B4E-69A201F06E88}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DBDE4165-3A12-4703-8B4E-69A201F06E88}.Release|Any CPU.Build.0 = Release|Any CPU
+		{209E61E1-04C3-4854-B3DD-B96C654B7E7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{209E61E1-04C3-4854-B3DD-B96C654B7E7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{209E61E1-04C3-4854-B3DD-B96C654B7E7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{209E61E1-04C3-4854-B3DD-B96C654B7E7E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
