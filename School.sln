@@ -73,6 +73,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Properties - read, write, p
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Properties - virtual and override", "Properties - virtual and override\Properties - virtual and override.csproj", "{E3436D7A-D10E-4105-9267-82EDF9E93822}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Properties - access modifiers", "Properties - access modifiers\Properties - access modifiers.csproj", "{4CE83ADE-7FE7-487E-8636-FDDE64E4FCAA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Property Problem", "Property Problem\Property Problem.csproj", "{DE0137E3-D05A-425B-95B7-129537605A01}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -219,6 +223,14 @@ Global
 		{E3436D7A-D10E-4105-9267-82EDF9E93822}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E3436D7A-D10E-4105-9267-82EDF9E93822}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E3436D7A-D10E-4105-9267-82EDF9E93822}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4CE83ADE-7FE7-487E-8636-FDDE64E4FCAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4CE83ADE-7FE7-487E-8636-FDDE64E4FCAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4CE83ADE-7FE7-487E-8636-FDDE64E4FCAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4CE83ADE-7FE7-487E-8636-FDDE64E4FCAA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE0137E3-D05A-425B-95B7-129537605A01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE0137E3-D05A-425B-95B7-129537605A01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE0137E3-D05A-425B-95B7-129537605A01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE0137E3-D05A-425B-95B7-129537605A01}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
