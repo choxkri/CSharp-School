@@ -81,9 +81,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Implement an interface", "I
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Write and implement multiple interfaces", "Write and implement multiple interfaces\Write and implement multiple interfaces.csproj", "{E46D3975-0E04-41DC-8C73-488694818550}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interfaces with properties", "Interfaces with properties\Interfaces with properties.csproj", "{90FB7813-327E-4C06-855D-F66383153BFA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Interfaces with properties", "Interfaces with properties\Interfaces with properties.csproj", "{90FB7813-327E-4C06-855D-F66383153BFA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Working with interface objects", "Working with interface objects\Working with interface objects.csproj", "{B9671AAE-F16B-4893-8673-AD2BC9551932}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Working with interface objects", "Working with interface objects\Working with interface objects.csproj", "{B9671AAE-F16B-4893-8673-AD2BC9551932}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interfaces inheriting from other interfaces", "Interfaces inheriting from other interfaces\Interfaces inheriting from other interfaces.csproj", "{B29DFB84-ACEF-46A6-AC67-9397A1500EA9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -255,6 +257,10 @@ Global
 		{B9671AAE-F16B-4893-8673-AD2BC9551932}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B9671AAE-F16B-4893-8673-AD2BC9551932}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B9671AAE-F16B-4893-8673-AD2BC9551932}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B29DFB84-ACEF-46A6-AC67-9397A1500EA9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B29DFB84-ACEF-46A6-AC67-9397A1500EA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B29DFB84-ACEF-46A6-AC67-9397A1500EA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B29DFB84-ACEF-46A6-AC67-9397A1500EA9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
