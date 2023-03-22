@@ -93,6 +93,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Derived class that implemen
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Create abstract class", "Create abstract class\Create abstract class.csproj", "{AD354148-A0A9-4F89-BACA-007AFA466934}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Derive from abstract class", "Derive from abstract class\Derive from abstract class.csproj", "{3360FBDE-7AC0-4AB5-B04F-D686D051DBDD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -279,6 +281,10 @@ Global
 		{AD354148-A0A9-4F89-BACA-007AFA466934}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AD354148-A0A9-4F89-BACA-007AFA466934}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AD354148-A0A9-4F89-BACA-007AFA466934}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3360FBDE-7AC0-4AB5-B04F-D686D051DBDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3360FBDE-7AC0-4AB5-B04F-D686D051DBDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3360FBDE-7AC0-4AB5-B04F-D686D051DBDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3360FBDE-7AC0-4AB5-B04F-D686D051DBDD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
