@@ -4,7 +4,7 @@
     {
         List<Bill> list = new List<Bill>
         {
-            new ElectricityBill(50, "John Doe"),
+            new ElectricityBill(50, "John Smith"),
             new ElectricityBill(75, "Jane Doe"),
             new GasBill(100, "Bob Johnson", false),
             new GasBill(125, "John Doe", true)
