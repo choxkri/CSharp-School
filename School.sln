@@ -91,11 +91,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Class with interface as mem
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Derived class that implements interface", "Derived class that implements interface\Derived class that implements interface.csproj", "{209E61E1-04C3-4854-B3DD-B96C654B7E7E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Create abstract class", "Create abstract class\Create abstract class.csproj", "{AD354148-A0A9-4F89-BACA-007AFA466934}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Create abstract class", "Create abstract class\Create abstract class.csproj", "{AD354148-A0A9-4F89-BACA-007AFA466934}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Derive from abstract class", "Derive from abstract class\Derive from abstract class.csproj", "{3360FBDE-7AC0-4AB5-B04F-D686D051DBDD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Derive from abstract class", "Derive from abstract class\Derive from abstract class.csproj", "{3360FBDE-7AC0-4AB5-B04F-D686D051DBDD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cast to abstract base class", "Cast to abstract base class\Cast to abstract base class.csproj", "{79CDA00E-48FC-42DF-941B-67E2CFD158BA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Cast to abstract base class", "Cast to abstract base class\Cast to abstract base class.csproj", "{79CDA00E-48FC-42DF-941B-67E2CFD158BA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "new method", "new method\new method.csproj", "{B4EB901D-D818-412B-9BD5-CD817A34EC73}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -291,6 +293,10 @@ Global
 		{79CDA00E-48FC-42DF-941B-67E2CFD158BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{79CDA00E-48FC-42DF-941B-67E2CFD158BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{79CDA00E-48FC-42DF-941B-67E2CFD158BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B4EB901D-D818-412B-9BD5-CD817A34EC73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4EB901D-D818-412B-9BD5-CD817A34EC73}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4EB901D-D818-412B-9BD5-CD817A34EC73}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4EB901D-D818-412B-9BD5-CD817A34EC73}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
