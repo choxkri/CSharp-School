@@ -8,7 +8,7 @@
         Department = department;
     }
 
-    public void PrintEmployeeInfo()
+    public new void PrintEmployeeInfo()
     {
         Console.WriteLine($"Manager: {FirstName} {LastName} ({Email}), Department: {Department}");
     }

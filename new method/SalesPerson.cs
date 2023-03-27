@@ -8,7 +8,7 @@
         SalesTarget = salesTarget;
     }
 
-    public void PrintEmployeeInfo()
+    public new void PrintEmployeeInfo()
     {
         Console.WriteLine($"Sales Person: {FirstName} {LastName} ({Email}), Sales Target: {SalesTarget}");
     }
