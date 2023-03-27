@@ -97,7 +97,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Derive from abstract class"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Cast to abstract base class", "Cast to abstract base class\Cast to abstract base class.csproj", "{79CDA00E-48FC-42DF-941B-67E2CFD158BA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "new method", "new method\new method.csproj", "{B4EB901D-D818-412B-9BD5-CD817A34EC73}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "new method", "new method\new method.csproj", "{B4EB901D-D818-412B-9BD5-CD817A34EC73}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "using new methods", "using new methods\using new methods.csproj", "{86678988-7A61-4928-8F2B-7415A4A8752E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -297,6 +299,10 @@ Global
 		{B4EB901D-D818-412B-9BD5-CD817A34EC73}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B4EB901D-D818-412B-9BD5-CD817A34EC73}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B4EB901D-D818-412B-9BD5-CD817A34EC73}.Release|Any CPU.Build.0 = Release|Any CPU
+		{86678988-7A61-4928-8F2B-7415A4A8752E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86678988-7A61-4928-8F2B-7415A4A8752E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86678988-7A61-4928-8F2B-7415A4A8752E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86678988-7A61-4928-8F2B-7415A4A8752E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
