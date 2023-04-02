@@ -17,6 +17,6 @@
 
     public void Display()
     {
-        Console.WriteLine($"Current conditions: [{_temperature}]C degrees and {_humidity}% humidity");
+        Console.WriteLine($"Current conditions: {_temperature}C degrees and {_humidity}% humidity");
     }
 }
