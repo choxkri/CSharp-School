@@ -121,6 +121,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Method-level generics", "Me
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Default value of generic type", "Default value of generic type\Default value of generic type.csproj", "{9676DA96-50F7-4722-8BFC-BBA301AE5E38}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Generic class inheritance to additional generic types", "Generic class inheritance to additional generic types\Generic class inheritance to additional generic types.csproj", "{74174E84-D04F-4984-B619-4BF2E795A0A3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -363,6 +365,10 @@ Global
 		{9676DA96-50F7-4722-8BFC-BBA301AE5E38}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9676DA96-50F7-4722-8BFC-BBA301AE5E38}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9676DA96-50F7-4722-8BFC-BBA301AE5E38}.Release|Any CPU.Build.0 = Release|Any CPU
+		{74174E84-D04F-4984-B619-4BF2E795A0A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74174E84-D04F-4984-B619-4BF2E795A0A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74174E84-D04F-4984-B619-4BF2E795A0A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74174E84-D04F-4984-B619-4BF2E795A0A3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
