@@ -129,6 +129,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IComparable", "IComparable\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IEquatable (object of same class)", "IEquatable (object of same class)\IEquatable (object of same class).csproj", "{DD13B068-A805-47E8-B4C0-5E44B528D8EE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IEquatable (any object)", "IEquatable (any object)\IEquatable (any object).csproj", "{B4CB3CAC-9672-4F58-96EF-5620678FC315}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -387,6 +389,10 @@ Global
 		{DD13B068-A805-47E8-B4C0-5E44B528D8EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DD13B068-A805-47E8-B4C0-5E44B528D8EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DD13B068-A805-47E8-B4C0-5E44B528D8EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B4CB3CAC-9672-4F58-96EF-5620678FC315}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4CB3CAC-9672-4F58-96EF-5620678FC315}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4CB3CAC-9672-4F58-96EF-5620678FC315}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4CB3CAC-9672-4F58-96EF-5620678FC315}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
