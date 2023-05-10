@@ -115,13 +115,17 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SAMPLE EXAM 2", "SAMPLE EXA
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Generic properties", "Generic properties\Generic properties.csproj", "{81C81975-776B-4E70-AA83-29F624A3917F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Multiple generic types", "Multiple generic types\Multiple generic types.csproj", "{DC707D10-FA21-4D51-9E61-361485050C9D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Multiple generic types", "Multiple generic types\Multiple generic types.csproj", "{DC707D10-FA21-4D51-9E61-361485050C9D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Method-level generics", "Method-level generics\Method-level generics.csproj", "{DDC3D1AC-F1FB-473D-96EC-822D195AC751}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Method-level generics", "Method-level generics\Method-level generics.csproj", "{DDC3D1AC-F1FB-473D-96EC-822D195AC751}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Default value of generic type", "Default value of generic type\Default value of generic type.csproj", "{9676DA96-50F7-4722-8BFC-BBA301AE5E38}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Default value of generic type", "Default value of generic type\Default value of generic type.csproj", "{9676DA96-50F7-4722-8BFC-BBA301AE5E38}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Generic class inheritance to additional generic types", "Generic class inheritance to additional generic types\Generic class inheritance to additional generic types.csproj", "{74174E84-D04F-4984-B619-4BF2E795A0A3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Generic class inheritance to additional generic types", "Generic class inheritance to additional generic types\Generic class inheritance to additional generic types.csproj", "{74174E84-D04F-4984-B619-4BF2E795A0A3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Where", "Where\Where.csproj", "{2E695463-EED5-4858-88AE-EEC6DECE0D83}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IComparable", "IComparable\IComparable.csproj", "{345C1FA6-3887-454B-81EA-8B72BEF03023}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -369,6 +373,14 @@ Global
 		{74174E84-D04F-4984-B619-4BF2E795A0A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{74174E84-D04F-4984-B619-4BF2E795A0A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{74174E84-D04F-4984-B619-4BF2E795A0A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E695463-EED5-4858-88AE-EEC6DECE0D83}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E695463-EED5-4858-88AE-EEC6DECE0D83}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E695463-EED5-4858-88AE-EEC6DECE0D83}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E695463-EED5-4858-88AE-EEC6DECE0D83}.Release|Any CPU.Build.0 = Release|Any CPU
+		{345C1FA6-3887-454B-81EA-8B72BEF03023}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{345C1FA6-3887-454B-81EA-8B72BEF03023}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{345C1FA6-3887-454B-81EA-8B72BEF03023}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{345C1FA6-3887-454B-81EA-8B72BEF03023}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
