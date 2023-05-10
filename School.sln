@@ -131,6 +131,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IEquatable (object of same 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IEquatable (any object)", "IEquatable (any object)\IEquatable (any object).csproj", "{B4CB3CAC-9672-4F58-96EF-5620678FC315}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "yield return and IEnumerable", "yield return and IEnumerable\yield return and IEnumerable.csproj", "{88C41BFA-1A0D-4690-A367-89C4E57E5C71}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -393,6 +395,10 @@ Global
 		{B4CB3CAC-9672-4F58-96EF-5620678FC315}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B4CB3CAC-9672-4F58-96EF-5620678FC315}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B4CB3CAC-9672-4F58-96EF-5620678FC315}.Release|Any CPU.Build.0 = Release|Any CPU
+		{88C41BFA-1A0D-4690-A367-89C4E57E5C71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88C41BFA-1A0D-4690-A367-89C4E57E5C71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88C41BFA-1A0D-4690-A367-89C4E57E5C71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88C41BFA-1A0D-4690-A367-89C4E57E5C71}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
