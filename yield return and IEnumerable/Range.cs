@@ -11,7 +11,13 @@
         Step = step;
     }
 
-    public 
+    public IEnumerable<int> Next()
+    {
+        for (int i = Start; i < End; i += Step)
+        {
+            yield return i;
+        }
+    }
 
 
 }
