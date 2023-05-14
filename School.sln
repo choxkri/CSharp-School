@@ -123,15 +123,17 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Default value of generic ty
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Generic class inheritance to additional generic types", "Generic class inheritance to additional generic types\Generic class inheritance to additional generic types.csproj", "{74174E84-D04F-4984-B619-4BF2E795A0A3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Where", "Where\Where.csproj", "{2E695463-EED5-4858-88AE-EEC6DECE0D83}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Where", "Where\Where.csproj", "{2E695463-EED5-4858-88AE-EEC6DECE0D83}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IComparable", "IComparable\IComparable.csproj", "{345C1FA6-3887-454B-81EA-8B72BEF03023}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IComparable", "IComparable\IComparable.csproj", "{345C1FA6-3887-454B-81EA-8B72BEF03023}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IEquatable (object of same class)", "IEquatable (object of same class)\IEquatable (object of same class).csproj", "{DD13B068-A805-47E8-B4C0-5E44B528D8EE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IEquatable (object of same class)", "IEquatable (object of same class)\IEquatable (object of same class).csproj", "{DD13B068-A805-47E8-B4C0-5E44B528D8EE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IEquatable (any object)", "IEquatable (any object)\IEquatable (any object).csproj", "{B4CB3CAC-9672-4F58-96EF-5620678FC315}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IEquatable (any object)", "IEquatable (any object)\IEquatable (any object).csproj", "{B4CB3CAC-9672-4F58-96EF-5620678FC315}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "yield return and IEnumerable", "yield return and IEnumerable\yield return and IEnumerable.csproj", "{88C41BFA-1A0D-4690-A367-89C4E57E5C71}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "yield return and IEnumerable", "yield return and IEnumerable\yield return and IEnumerable.csproj", "{88C41BFA-1A0D-4690-A367-89C4E57E5C71}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tuple - create", "Tuple - create\Tuple - create.csproj", "{E12A5F78-4D85-40E7-8BED-5C41C3BB1B9D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -399,6 +401,10 @@ Global
 		{88C41BFA-1A0D-4690-A367-89C4E57E5C71}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{88C41BFA-1A0D-4690-A367-89C4E57E5C71}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{88C41BFA-1A0D-4690-A367-89C4E57E5C71}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E12A5F78-4D85-40E7-8BED-5C41C3BB1B9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E12A5F78-4D85-40E7-8BED-5C41C3BB1B9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E12A5F78-4D85-40E7-8BED-5C41C3BB1B9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E12A5F78-4D85-40E7-8BED-5C41C3BB1B9D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
