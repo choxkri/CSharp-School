@@ -137,6 +137,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tuple - create", "Tuple - c
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tuple - accessing elements", "Tuple - accessing elements\Tuple - accessing elements.csproj", "{B19FB4C6-CAC9-40F7-B25A-BC218DFFC854}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValueTuple - create and access elements", "ValueTuple - create and access elements\ValueTuple - create and access elements.csproj", "{AEFAE4A2-4AFB-4E47-AB22-15E09DC26E49}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -411,6 +413,10 @@ Global
 		{B19FB4C6-CAC9-40F7-B25A-BC218DFFC854}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B19FB4C6-CAC9-40F7-B25A-BC218DFFC854}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B19FB4C6-CAC9-40F7-B25A-BC218DFFC854}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AEFAE4A2-4AFB-4E47-AB22-15E09DC26E49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AEFAE4A2-4AFB-4E47-AB22-15E09DC26E49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AEFAE4A2-4AFB-4E47-AB22-15E09DC26E49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AEFAE4A2-4AFB-4E47-AB22-15E09DC26E49}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
