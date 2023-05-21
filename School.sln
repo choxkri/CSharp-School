@@ -135,17 +135,19 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "yield return and IEnumerabl
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tuple - create", "Tuple - create\Tuple - create.csproj", "{E12A5F78-4D85-40E7-8BED-5C41C3BB1B9D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tuple - accessing elements", "Tuple - accessing elements\Tuple - accessing elements.csproj", "{B19FB4C6-CAC9-40F7-B25A-BC218DFFC854}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tuple - accessing elements", "Tuple - accessing elements\Tuple - accessing elements.csproj", "{B19FB4C6-CAC9-40F7-B25A-BC218DFFC854}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValueTuple - create and access elements", "ValueTuple - create and access elements\ValueTuple - create and access elements.csproj", "{AEFAE4A2-4AFB-4E47-AB22-15E09DC26E49}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ValueTuple - create and access elements", "ValueTuple - create and access elements\ValueTuple - create and access elements.csproj", "{AEFAE4A2-4AFB-4E47-AB22-15E09DC26E49}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arrays - create", "Arrays - create\Arrays - create.csproj", "{CD6CACCB-EF68-47CC-B759-28795B5F5656}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Arrays - create", "Arrays - create\Arrays - create.csproj", "{CD6CACCB-EF68-47CC-B759-28795B5F5656}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arrays - create, access elements, Length", "Arrays - create, access elements, Length\Arrays - create, access elements, Length.csproj", "{483A8B94-DCAD-4726-9093-71325B9B955B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Arrays - create, access elements, Length", "Arrays - create, access elements, Length\Arrays - create, access elements, Length.csproj", "{483A8B94-DCAD-4726-9093-71325B9B955B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arrays - Sort and Reverse", "Arrays - Sort and Reverse\Arrays - Sort and Reverse.csproj", "{7BF21D8C-1083-4D22-B542-B3D8DFA0A2D3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Arrays - Sort and Reverse", "Arrays - Sort and Reverse\Arrays - Sort and Reverse.csproj", "{7BF21D8C-1083-4D22-B542-B3D8DFA0A2D3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arrays - Copy", "Arrays - Copy\Arrays - Copy.csproj", "{9DAAA01E-BB34-4407-86AA-8A686F3FF510}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Arrays - Copy", "Arrays - Copy\Arrays - Copy.csproj", "{9DAAA01E-BB34-4407-86AA-8A686F3FF510}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jagged array - looping", "Jagged array - looping\Jagged array - looping.csproj", "{607F7F79-B534-4383-88AB-9C2281DEA466}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -441,6 +443,10 @@ Global
 		{9DAAA01E-BB34-4407-86AA-8A686F3FF510}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9DAAA01E-BB34-4407-86AA-8A686F3FF510}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9DAAA01E-BB34-4407-86AA-8A686F3FF510}.Release|Any CPU.Build.0 = Release|Any CPU
+		{607F7F79-B534-4383-88AB-9C2281DEA466}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{607F7F79-B534-4383-88AB-9C2281DEA466}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{607F7F79-B534-4383-88AB-9C2281DEA466}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{607F7F79-B534-4383-88AB-9C2281DEA466}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
