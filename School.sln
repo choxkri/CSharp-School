@@ -149,7 +149,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Arrays - Copy", "Arrays - C
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Jagged array - looping", "Jagged array - looping\Jagged array - looping.csproj", "{607F7F79-B534-4383-88AB-9C2281DEA466}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jagged array - creating", "Jagged array - creating\Jagged array - creating.csproj", "{D620FDD2-C603-4545-A69F-43C1FA1AB735}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Jagged array - creating", "Jagged array - creating\Jagged array - creating.csproj", "{D620FDD2-C603-4545-A69F-43C1FA1AB735}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "N-dimensional arrays - looping", "N-dimensional arrays - looping\N-dimensional arrays - looping.csproj", "{2589ABD3-69E7-43CF-BDBD-DA74788CF15A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -453,6 +455,10 @@ Global
 		{D620FDD2-C603-4545-A69F-43C1FA1AB735}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D620FDD2-C603-4545-A69F-43C1FA1AB735}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D620FDD2-C603-4545-A69F-43C1FA1AB735}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2589ABD3-69E7-43CF-BDBD-DA74788CF15A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2589ABD3-69E7-43CF-BDBD-DA74788CF15A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2589ABD3-69E7-43CF-BDBD-DA74788CF15A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2589ABD3-69E7-43CF-BDBD-DA74788CF15A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
