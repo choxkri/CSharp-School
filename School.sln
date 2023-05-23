@@ -155,11 +155,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "N-dimensional arrays - loop
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "N-dimensional arrays - creating", "N-dimensional arrays - creating\N-dimensional arrays - creating.csproj", "{42AEDAD1-B04D-4EDF-8A40-F946AF1CF239}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lambdas and Lists", "Lambdas and Lists\Lambdas and Lists.csproj", "{C4C9678D-42BD-4C45-BB99-78D743616C5D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lambdas and Lists", "Lambdas and Lists\Lambdas and Lists.csproj", "{C4C9678D-42BD-4C45-BB99-78D743616C5D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HOFs, Action", "HOFs, Action\HOFs, Action.csproj", "{78247B53-7B84-4ADF-963C-A184E0589512}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HOFs, Action", "HOFs, Action\HOFs, Action.csproj", "{78247B53-7B84-4ADF-963C-A184E0589512}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lambda with multiple parameters", "Lambda with multiple parameters\Lambda with multiple parameters.csproj", "{8ADE3F37-3AB0-4FB7-BABE-AA01691B4DAF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lambda with multiple parameters", "Lambda with multiple parameters\Lambda with multiple parameters.csproj", "{8ADE3F37-3AB0-4FB7-BABE-AA01691B4DAF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HOF returning a lambda", "HOF returning a lambda\HOF returning a lambda.csproj", "{934C1B89-0D0B-447D-AF7F-8BE7E782B961}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -483,6 +485,10 @@ Global
 		{8ADE3F37-3AB0-4FB7-BABE-AA01691B4DAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8ADE3F37-3AB0-4FB7-BABE-AA01691B4DAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8ADE3F37-3AB0-4FB7-BABE-AA01691B4DAF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{934C1B89-0D0B-447D-AF7F-8BE7E782B961}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{934C1B89-0D0B-447D-AF7F-8BE7E782B961}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{934C1B89-0D0B-447D-AF7F-8BE7E782B961}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{934C1B89-0D0B-447D-AF7F-8BE7E782B961}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
