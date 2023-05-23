@@ -161,7 +161,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HOFs, Action", "HOFs, Actio
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lambda with multiple parameters", "Lambda with multiple parameters\Lambda with multiple parameters.csproj", "{8ADE3F37-3AB0-4FB7-BABE-AA01691B4DAF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HOF returning a lambda", "HOF returning a lambda\HOF returning a lambda.csproj", "{934C1B89-0D0B-447D-AF7F-8BE7E782B961}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HOF returning a lambda", "HOF returning a lambda\HOF returning a lambda.csproj", "{934C1B89-0D0B-447D-AF7F-8BE7E782B961}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Curried lambdas", "Curried lambdas\Curried lambdas.csproj", "{249B2ECB-7412-48A5-86ED-0A33AC5EABF9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -489,6 +491,10 @@ Global
 		{934C1B89-0D0B-447D-AF7F-8BE7E782B961}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{934C1B89-0D0B-447D-AF7F-8BE7E782B961}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{934C1B89-0D0B-447D-AF7F-8BE7E782B961}.Release|Any CPU.Build.0 = Release|Any CPU
+		{249B2ECB-7412-48A5-86ED-0A33AC5EABF9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{249B2ECB-7412-48A5-86ED-0A33AC5EABF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{249B2ECB-7412-48A5-86ED-0A33AC5EABF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{249B2ECB-7412-48A5-86ED-0A33AC5EABF9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
