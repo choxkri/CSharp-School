@@ -151,9 +151,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Jagged array - looping", "J
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Jagged array - creating", "Jagged array - creating\Jagged array - creating.csproj", "{D620FDD2-C603-4545-A69F-43C1FA1AB735}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "N-dimensional arrays - looping", "N-dimensional arrays - looping\N-dimensional arrays - looping.csproj", "{2589ABD3-69E7-43CF-BDBD-DA74788CF15A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "N-dimensional arrays - looping", "N-dimensional arrays - looping\N-dimensional arrays - looping.csproj", "{2589ABD3-69E7-43CF-BDBD-DA74788CF15A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "N-dimensional arrays - creating", "N-dimensional arrays - creating\N-dimensional arrays - creating.csproj", "{42AEDAD1-B04D-4EDF-8A40-F946AF1CF239}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "N-dimensional arrays - creating", "N-dimensional arrays - creating\N-dimensional arrays - creating.csproj", "{42AEDAD1-B04D-4EDF-8A40-F946AF1CF239}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lambdas and Lists", "Lambdas and Lists\Lambdas and Lists.csproj", "{C4C9678D-42BD-4C45-BB99-78D743616C5D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -465,6 +467,10 @@ Global
 		{42AEDAD1-B04D-4EDF-8A40-F946AF1CF239}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{42AEDAD1-B04D-4EDF-8A40-F946AF1CF239}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{42AEDAD1-B04D-4EDF-8A40-F946AF1CF239}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C4C9678D-42BD-4C45-BB99-78D743616C5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4C9678D-42BD-4C45-BB99-78D743616C5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4C9678D-42BD-4C45-BB99-78D743616C5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4C9678D-42BD-4C45-BB99-78D743616C5D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
