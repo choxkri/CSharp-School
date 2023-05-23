@@ -157,6 +157,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "N-dimensional arrays - crea
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lambdas and Lists", "Lambdas and Lists\Lambdas and Lists.csproj", "{C4C9678D-42BD-4C45-BB99-78D743616C5D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HOFs, Action", "HOFs, Action\HOFs, Action.csproj", "{78247B53-7B84-4ADF-963C-A184E0589512}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -471,6 +473,10 @@ Global
 		{C4C9678D-42BD-4C45-BB99-78D743616C5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C4C9678D-42BD-4C45-BB99-78D743616C5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C4C9678D-42BD-4C45-BB99-78D743616C5D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{78247B53-7B84-4ADF-963C-A184E0589512}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78247B53-7B84-4ADF-963C-A184E0589512}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78247B53-7B84-4ADF-963C-A184E0589512}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78247B53-7B84-4ADF-963C-A184E0589512}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
