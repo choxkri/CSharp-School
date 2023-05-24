@@ -163,9 +163,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lambda with multiple parame
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HOF returning a lambda", "HOF returning a lambda\HOF returning a lambda.csproj", "{934C1B89-0D0B-447D-AF7F-8BE7E782B961}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Curried lambdas", "Curried lambdas\Curried lambdas.csproj", "{249B2ECB-7412-48A5-86ED-0A33AC5EABF9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Curried lambdas", "Curried lambdas\Curried lambdas.csproj", "{249B2ECB-7412-48A5-86ED-0A33AC5EABF9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Historical Event Search", "Historical Event Search\Historical Event Search.csproj", "{E1D4A96B-6DD3-4356-B7DA-98692D880971}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Historical Event Search", "Historical Event Search\Historical Event Search.csproj", "{E1D4A96B-6DD3-4356-B7DA-98692D880971}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Filter", "Filter\Filter.csproj", "{EFB34A57-DEC7-4C89-8549-15E5348C467B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -501,6 +503,10 @@ Global
 		{E1D4A96B-6DD3-4356-B7DA-98692D880971}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E1D4A96B-6DD3-4356-B7DA-98692D880971}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E1D4A96B-6DD3-4356-B7DA-98692D880971}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EFB34A57-DEC7-4C89-8549-15E5348C467B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFB34A57-DEC7-4C89-8549-15E5348C467B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFB34A57-DEC7-4C89-8549-15E5348C467B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFB34A57-DEC7-4C89-8549-15E5348C467B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
