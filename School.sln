@@ -167,9 +167,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Curried lambdas", "Curried 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Historical Event Search", "Historical Event Search\Historical Event Search.csproj", "{E1D4A96B-6DD3-4356-B7DA-98692D880971}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Filter", "Filter\Filter.csproj", "{EFB34A57-DEC7-4C89-8549-15E5348C467B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Filter", "Filter\Filter.csproj", "{EFB34A57-DEC7-4C89-8549-15E5348C467B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wijnhaven (1 of 3)", "Wijnhaven (1 of 3)\Wijnhaven (1 of 3).csproj", "{E96F1EEE-A189-4E98-B7CA-DB1C57474E4D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Wijnhaven (1 of 3)", "Wijnhaven (1 of 3)\Wijnhaven (1 of 3).csproj", "{E96F1EEE-A189-4E98-B7CA-DB1C57474E4D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Contacts manager", "Contacts manager\Contacts manager.csproj", "{AE0A7FAB-DD05-49F4-9F6B-27A5C4974D46}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -513,6 +515,10 @@ Global
 		{E96F1EEE-A189-4E98-B7CA-DB1C57474E4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E96F1EEE-A189-4E98-B7CA-DB1C57474E4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E96F1EEE-A189-4E98-B7CA-DB1C57474E4D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AE0A7FAB-DD05-49F4-9F6B-27A5C4974D46}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE0A7FAB-DD05-49F4-9F6B-27A5C4974D46}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE0A7FAB-DD05-49F4-9F6B-27A5C4974D46}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE0A7FAB-DD05-49F4-9F6B-27A5C4974D46}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
