@@ -34,8 +34,8 @@ public class Program
 
     // GetPriceCalculator goes here
 
-    public Func<double, Func<double, double>> GetPriceCalculator(double tax)
+    public static Func<double, Func<double, double>> GetPriceCalculator(double tax)
     {
-        return x => y=> 
+        return x => y => y * (1 - x) * (1 - tax);
     }
 }

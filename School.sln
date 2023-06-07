@@ -175,7 +175,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Contacts manager", "Contact
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Inventory system", "Inventory system\Inventory system.csproj", "{19F9E132-F381-4455-BAF2-EE85E0F9F8D3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stack of integers", "Stack of integers\Stack of integers.csproj", "{065B941D-D12E-4D5F-9560-12018EEA385D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Stack of integers", "Stack of integers\Stack of integers.csproj", "{065B941D-D12E-4D5F-9560-12018EEA385D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Customer service requests", "Customer service requests\Customer service requests.csproj", "{CA278952-362A-4A61-98F8-D39B392C1708}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -531,6 +533,10 @@ Global
 		{065B941D-D12E-4D5F-9560-12018EEA385D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{065B941D-D12E-4D5F-9560-12018EEA385D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{065B941D-D12E-4D5F-9560-12018EEA385D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA278952-362A-4A61-98F8-D39B392C1708}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA278952-362A-4A61-98F8-D39B392C1708}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA278952-362A-4A61-98F8-D39B392C1708}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA278952-362A-4A61-98F8-D39B392C1708}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
