@@ -179,6 +179,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Stack of integers", "Stack 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Customer service requests", "Customer service requests\Customer service requests.csproj", "{CA278952-362A-4A61-98F8-D39B392C1708}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wijnhaven (2 of 3)", "Wijnhaven (2 of 3)\Wijnhaven (2 of 3).csproj", "{D773F1E5-7C16-4AEC-A07F-A58626D663E6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -537,6 +539,10 @@ Global
 		{CA278952-362A-4A61-98F8-D39B392C1708}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CA278952-362A-4A61-98F8-D39B392C1708}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CA278952-362A-4A61-98F8-D39B392C1708}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D773F1E5-7C16-4AEC-A07F-A58626D663E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D773F1E5-7C16-4AEC-A07F-A58626D663E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D773F1E5-7C16-4AEC-A07F-A58626D663E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D773F1E5-7C16-4AEC-A07F-A58626D663E6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
