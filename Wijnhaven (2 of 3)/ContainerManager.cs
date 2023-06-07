@@ -8,10 +8,8 @@ public static class ContainerManager
         IEnumerable<string> allfiles = Directory.EnumerateFiles(path);
         foreach (string file in allfiles)
         {
-            foreach (Container cont in ProcessManifest(file))
-            {
-                Console.WriteLine(cont.ToString());
-            }
+            List<Container> list = ProcessManifest(file);
+            MarkForInspection(list, x => x.Categories.Contains("Fruits") && x.Origin == "COL");
         }
     }
 
