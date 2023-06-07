@@ -177,9 +177,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Inventory system", "Invento
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Stack of integers", "Stack of integers\Stack of integers.csproj", "{065B941D-D12E-4D5F-9560-12018EEA385D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Customer service requests", "Customer service requests\Customer service requests.csproj", "{CA278952-362A-4A61-98F8-D39B392C1708}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Customer service requests", "Customer service requests\Customer service requests.csproj", "{CA278952-362A-4A61-98F8-D39B392C1708}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wijnhaven (2 of 3)", "Wijnhaven (2 of 3)\Wijnhaven (2 of 3).csproj", "{D773F1E5-7C16-4AEC-A07F-A58626D663E6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Wijnhaven (2 of 3)", "Wijnhaven (2 of 3)\Wijnhaven (2 of 3).csproj", "{D773F1E5-7C16-4AEC-A07F-A58626D663E6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Divisible LINQ", "Divisible LINQ\Divisible LINQ.csproj", "{BFFA8059-7412-4654-A0FE-6E42F5E98083}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -543,6 +545,10 @@ Global
 		{D773F1E5-7C16-4AEC-A07F-A58626D663E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D773F1E5-7C16-4AEC-A07F-A58626D663E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D773F1E5-7C16-4AEC-A07F-A58626D663E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BFFA8059-7412-4654-A0FE-6E42F5E98083}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFFA8059-7412-4654-A0FE-6E42F5E98083}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFFA8059-7412-4654-A0FE-6E42F5E98083}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFFA8059-7412-4654-A0FE-6E42F5E98083}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
