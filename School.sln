@@ -181,7 +181,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Customer service requests",
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Wijnhaven (2 of 3)", "Wijnhaven (2 of 3)\Wijnhaven (2 of 3).csproj", "{D773F1E5-7C16-4AEC-A07F-A58626D663E6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Divisible LINQ", "Divisible LINQ\Divisible LINQ.csproj", "{BFFA8059-7412-4654-A0FE-6E42F5E98083}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Divisible LINQ", "Divisible LINQ\Divisible LINQ.csproj", "{BFFA8059-7412-4654-A0FE-6E42F5E98083}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Datasets LINQ", "Datasets LINQ\Datasets LINQ.csproj", "{BEA71B95-8A66-4DD0-8F61-AA34049BADAB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -549,6 +551,10 @@ Global
 		{BFFA8059-7412-4654-A0FE-6E42F5E98083}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BFFA8059-7412-4654-A0FE-6E42F5E98083}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BFFA8059-7412-4654-A0FE-6E42F5E98083}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BEA71B95-8A66-4DD0-8F61-AA34049BADAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BEA71B95-8A66-4DD0-8F61-AA34049BADAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BEA71B95-8A66-4DD0-8F61-AA34049BADAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BEA71B95-8A66-4DD0-8F61-AA34049BADAB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
