@@ -185,7 +185,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Divisible LINQ", "Divisible
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Datasets LINQ", "Datasets LINQ\Datasets LINQ.csproj", "{BEA71B95-8A66-4DD0-8F61-AA34049BADAB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Grouping restaurants LINQ", "Grouping restaurants LINQ\Grouping restaurants LINQ.csproj", "{4324C311-2B2A-4C76-8D7B-3FA981CB74DE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Grouping restaurants LINQ", "Grouping restaurants LINQ\Grouping restaurants LINQ.csproj", "{4324C311-2B2A-4C76-8D7B-3FA981CB74DE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SAMPLE EXAM 1 OP4", "SAMPLE EXAM 1 OP4\SAMPLE EXAM 1 OP4.csproj", "{655E8A19-79F3-46E7-864B-4CDC39741482}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SAMPLE EXAM 2 OP4", "SAMPLE EXAM 2 OP4\SAMPLE EXAM 2 OP4.csproj", "{B6C22BC3-AB88-4D88-AD5E-19A9B0A42F40}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -561,6 +565,14 @@ Global
 		{4324C311-2B2A-4C76-8D7B-3FA981CB74DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4324C311-2B2A-4C76-8D7B-3FA981CB74DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4324C311-2B2A-4C76-8D7B-3FA981CB74DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{655E8A19-79F3-46E7-864B-4CDC39741482}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{655E8A19-79F3-46E7-864B-4CDC39741482}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{655E8A19-79F3-46E7-864B-4CDC39741482}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{655E8A19-79F3-46E7-864B-4CDC39741482}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B6C22BC3-AB88-4D88-AD5E-19A9B0A42F40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6C22BC3-AB88-4D88-AD5E-19A9B0A42F40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6C22BC3-AB88-4D88-AD5E-19A9B0A42F40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6C22BC3-AB88-4D88-AD5E-19A9B0A42F40}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
