@@ -191,6 +191,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SAMPLE EXAM 1 OP4", "SAMPLE
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SAMPLE EXAM 2 OP4", "SAMPLE EXAM 2 OP4\SAMPLE EXAM 2 OP4.csproj", "{B6C22BC3-AB88-4D88-AD5E-19A9B0A42F40}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Character counter", "Character counter\Character counter.csproj", "{D2348F6C-A71B-4265-9D4F-037002992007}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -573,6 +575,10 @@ Global
 		{B6C22BC3-AB88-4D88-AD5E-19A9B0A42F40}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B6C22BC3-AB88-4D88-AD5E-19A9B0A42F40}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B6C22BC3-AB88-4D88-AD5E-19A9B0A42F40}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D2348F6C-A71B-4265-9D4F-037002992007}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2348F6C-A71B-4265-9D4F-037002992007}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2348F6C-A71B-4265-9D4F-037002992007}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2348F6C-A71B-4265-9D4F-037002992007}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
