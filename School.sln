@@ -187,15 +187,23 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Datasets LINQ", "Datasets L
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Grouping restaurants LINQ", "Grouping restaurants LINQ\Grouping restaurants LINQ.csproj", "{4324C311-2B2A-4C76-8D7B-3FA981CB74DE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SAMPLE EXAM 1 OP4", "SAMPLE EXAM 1 OP4\SAMPLE EXAM 1 OP4.csproj", "{655E8A19-79F3-46E7-864B-4CDC39741482}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SAMPLE EXAM 1 OP4", "SAMPLE EXAM 1 OP4\SAMPLE EXAM 1 OP4.csproj", "{655E8A19-79F3-46E7-864B-4CDC39741482}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SAMPLE EXAM 2 OP4", "SAMPLE EXAM 2 OP4\SAMPLE EXAM 2 OP4.csproj", "{B6C22BC3-AB88-4D88-AD5E-19A9B0A42F40}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SAMPLE EXAM 2 OP4", "SAMPLE EXAM 2 OP4\SAMPLE EXAM 2 OP4.csproj", "{B6C22BC3-AB88-4D88-AD5E-19A9B0A42F40}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Character counter", "Character counter\Character counter.csproj", "{D2348F6C-A71B-4265-9D4F-037002992007}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Character counter", "Character counter\Character counter.csproj", "{D2348F6C-A71B-4265-9D4F-037002992007}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Transpose", "Transpose\Transpose.csproj", "{A396EB16-FA72-46FA-9E00-27956EEA2677}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Transpose", "Transpose\Transpose.csproj", "{A396EB16-FA72-46FA-9E00-27956EEA2677}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Most frequent character", "Most frequent character\Most frequent character.csproj", "{5A1B89AD-ED40-47D1-96E2-5113E0FA9144}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Most frequent character", "Most frequent character\Most frequent character.csproj", "{5A1B89AD-ED40-47D1-96E2-5113E0FA9144}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sample Exam OP4 Assignment 2", "Sample Exam OP4 Assignment 2\Sample Exam OP4 Assignment 2.csproj", "{F9F5555B-9F6B-4C77-BAC0-35B8892B2E86}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Enum declaration and initialization", "Enum declaration and initialization\Enum declaration and initialization.csproj", "{4F8B89C0-774B-44F9-9411-FB554A2A3748}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Enum and switch", "Enum and switch\Enum and switch.csproj", "{82D03845-4389-4741-9003-E17371BB62DA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Enum - creating, looping and parsing", "Enum - creating, looping and parsing\Enum - creating, looping and parsing.csproj", "{07DBC911-8DD5-4936-9AD9-777BE9E25F15}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -591,6 +599,22 @@ Global
 		{5A1B89AD-ED40-47D1-96E2-5113E0FA9144}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5A1B89AD-ED40-47D1-96E2-5113E0FA9144}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5A1B89AD-ED40-47D1-96E2-5113E0FA9144}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F9F5555B-9F6B-4C77-BAC0-35B8892B2E86}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9F5555B-9F6B-4C77-BAC0-35B8892B2E86}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9F5555B-9F6B-4C77-BAC0-35B8892B2E86}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9F5555B-9F6B-4C77-BAC0-35B8892B2E86}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F8B89C0-774B-44F9-9411-FB554A2A3748}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F8B89C0-774B-44F9-9411-FB554A2A3748}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F8B89C0-774B-44F9-9411-FB554A2A3748}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F8B89C0-774B-44F9-9411-FB554A2A3748}.Release|Any CPU.Build.0 = Release|Any CPU
+		{82D03845-4389-4741-9003-E17371BB62DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82D03845-4389-4741-9003-E17371BB62DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82D03845-4389-4741-9003-E17371BB62DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82D03845-4389-4741-9003-E17371BB62DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{07DBC911-8DD5-4936-9AD9-777BE9E25F15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07DBC911-8DD5-4936-9AD9-777BE9E25F15}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07DBC911-8DD5-4936-9AD9-777BE9E25F15}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07DBC911-8DD5-4936-9AD9-777BE9E25F15}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
